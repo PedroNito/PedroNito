@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
- # Hello there 👋
+ # Hi there 👋
 
 <div style="text-align: center; margin-bottom: 20%">
     <img src="./assets/work-in-progress.png" alt="" width="30%"/>
@@ -36,21 +36,31 @@ Here are some ideas to get you started:
     <a/>
 </div>
 
-## Languages, Frameworks and Tools
+## TECH KNOWLEDGE
+
+### Languages
+
+### Frameworks
+
+### Libraries
+
+### Tools
+
+
 
 ![Static Badge](https://img.shields.io/badge/javascript-bagde?style=for-the-badge&logo=javascript&logoColor=black&labelColor=%23F7DF1E&color=%23F7DF1E)
+
+
 ![Static Badge](https://img.shields.io/badge/vue-bagde?style=for-the-badge&logo=vuedotjs&logoColor=black&color=%234FC08D)
-
-
 
 
 ![Static Badge](https://img.shields.io/badge/nodejs-bagde?style=for-the-badge&logo=nodedotjs&logoColor=white&color=%23339933)
 <!-- <img alt="Static Badge" src="https://img.shields.io/badge/nodejs-bagde?style=for-the-badge&logo=nodedotjs&logoColor=white&color=%23339933"> -->
 
 
-
-
 ![Static Badge](https://img.shields.io/badge/php-bagde?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4)
+
+
 ![Static Badge](https://img.shields.io/badge/laravel-bagde?style=for-the-badge&logo=laravel&logoColor=white&color=%23FF2D20)
 
 
@@ -67,7 +77,13 @@ Here are some ideas to get you started:
 
 
 ![Static Badge](https://img.shields.io/badge/git-bagde?style=for-the-badge&logo=git&logoColor=white&color=%23F05032)
+
+
 ![Static Badge](https://img.shields.io/badge/github-bagde?style=for-the-badge&logo=github&color=%23181717)
+
+
+![Static Badge](https://img.shields.io/badge/git%20kraken-badge?style=for-the-badge&logo=gitkraken&logoColor=white&color=%23179287)
+<!-- <img alt="Static Badge" src="https://img.shields.io/badge/git%20kraken-badge?style=for-the-badge&logo=gitkraken&logoColor=white&color=%23179287"> -->
 
 
 ![Static Badge](https://img.shields.io/badge/vscode-badge?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=%23007ACC)
@@ -77,21 +93,32 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/microsoft%20SQL%20%20Server-badge?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&color=%23CC2927)
 <!-- <img alt="Static Badge" src="https://img.shields.io/badge/microsoft%20SQL%20%20Server-badge?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&color=%23CC2927"> -->
 
+
 ![Static Badge](https://img.shields.io/badge/mySQL-badge?style=for-the-badge&logo=mysql&logoColor=white&color=%234479A1)
 <!-- <img alt="Static Badge" src="https://img.shields.io/badge/mySQL-badge?style=for-the-badge&logo=mysql&logoColor=white&color=%234479A1"> -->
 
 
 ![Static Badge](https://img.shields.io/badge/figma-bagde?style=for-the-badge&logo=figma&logoColor=white&color=%23F24E1E)
 
+
 ![Static Badge](https://img.shields.io/badge/chartjs-bagde?style=for-the-badge&logo=chartdotjs&logoColor=white&color=%23FF6384)
 <!-- <img alt="Static Badge" src="https://img.shields.io/badge/nodejs-bagde?style=for-the-badge&logo=chartdotjs&logoColor=white&color=%23FF6384"> -->
 
 
+![Static Badge](https://img.shields.io/badge/html5-badge?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26)
+<!-- <img alt="Static Badge" src="https://img.shields.io/badge/html5-badge?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26"> -->
 
 
-<div style="margin-bottom:10%;">
+![Static Badge](https://img.shields.io/badge/css-badge?style=for-the-badge&logo=css3&logoColor=white&color=%231572B6)
+<!-- <img alt="Static Badge" src="https://img.shields.io/badge/css-badge?style=for-the-badge&logo=css3&logoColor=white&color=%231572B6"> -->
 
-</div>
+
+## CERTIFICATIONS
+
+
+
+
+
 
 
 
