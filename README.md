@@ -22,10 +22,16 @@ Here are some ideas to get you started:
     <img src="./assets/work-in-progress.png" alt="" width="30%"/>
 </div> -->
 
+<!-- <div style="text-align: center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PedroNito&theme=tokyonight)](https://git.io/streak-stats)
+
+</div> -->
+
 
  ## ABOUT ME ✍️
 
-<div style="margin-bottom: 10%">
+<div style="">
 <div>
         I'm a simple guy. I like to travel. I like the nature.
 
@@ -35,12 +41,14 @@ Here are some ideas to get you started:
     
 </div>
 
-<div style="display:flex; justify-content:left; align-items:center; width:100%">
-    <h3 style="margin-right:2%; margin-bottom:3.5%">Connect with me on</h3>
+<div style="display:flex; justify-content:left; align-items:center; width:100%; margin-top: 5%; margin-bottom: 5%">
+    <h3 style="margin-right:2%; margin-bottom:3%">Connect with me on</h3>
     <a href="https://www.linkedin.com/in/pedro-nito-b20126205/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     <a/>
 </div>
+
+
 
 <div style="margin-top:5%;">
 
@@ -83,17 +91,17 @@ Here are some ideas to get you started:
 ![figma](https://img.shields.io/badge/figma-bagde?style=for-the-badge&logo=figma&logoColor=white&color=%23F24E1E)
 ![Postman](https://img.shields.io/badge/postman-badge?style=for-the-badge&logo=postman&logoColor=white&color=%23FF6C37)
 
-<div style="display:flex; justify-content:left; align-items:center; width:100%">
-<h3 style="margin-right:2%; margin-bottom:5.5%">Current Learning:</h3>
+<div style="display:flex; justify-content:left; align-items:center; width:100%; margin-top:5%; margin-bottom:5%;">
+<h3 style="margin-right:2%; margin-bottom:5%">Current Learning:</h3>
     
-![Static Badge](https://img.shields.io/badge/angular-badge?style=for-the-badge&logo=angular&logoColor=white&color=%23DD1100)
+![Angular](https://img.shields.io/badge/angular-badge?style=for-the-badge&logo=angular&logoColor=white&color=%23DD1100)
+![Static Badge](https://img.shields.io/badge/jira%20software-badge?style=for-the-badge&logo=jirasoftware&logoColor=white&color=%230052CC)
+
 
 </div>
 
+
 <!-- ## CERTIFICATIONS 🏅 -->
-
-
-
 
 
 <div style="margin-top:5%">
