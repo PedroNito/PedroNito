@@ -17,7 +17,7 @@ In my free time, I enjoy building with Legos, traveling to explore new cultures,
 </div>
 
 
-<div style="display:flex; justify-content:left; align-items:center; width:100%;margin-top:4%; margin-bottom:4%;">
+<div style="display:flex; flex-direction:row ;justify-content:left; align-items:center; width:100%;margin-top:4%; margin-bottom:4%;">
 <h3 style="margin-right:2%; margin-bottom:5%">🌍 Connect with me on</h3>
 <a href="https://www.linkedin.com/in/pedro-nito-b20126205/">
 
