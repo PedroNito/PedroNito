@@ -26,6 +26,9 @@ In my free time, I enjoy building with Legos, traveling to explore new cultures,
 </div>
 
 
+
+
+
 ## TECH KNOWLEDGE 👨‍💻
 
 
@@ -94,12 +97,24 @@ In my free time, I enjoy building with Legos, traveling to explore new cultures,
 ![Angular](https://img.shields.io/badge/angular-badge?style=for-the-badge&logo=angular&logoColor=white&color=%23DD1100)
 ![Typescript](https://img.shields.io/badge/typescript-badge?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6)
 ![Jira Software](https://img.shields.io/badge/jira%20software-badge?style=for-the-badge&logo=jirasoftware&logoColor=white&color=%230052CC)
-
 </div>
 
 
 
 
- 
+<!-- # CERTIFICATIONS 🏅 -->
 
 
+
+
+
+## QUOTE 💭
+
+<div align="center">
+
+*"Clean code always looks like it was written by someone who cares."*
+<br>
+
+*Robert C. Martin*
+
+</div>
