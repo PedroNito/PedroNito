@@ -4,11 +4,13 @@
 
 <div>
 
+Hi there, welcome! 
+
 I'm Pedro Nito, a technology enthusiast passionate about creating innovative solutions and solving problems.
 
-I'm a fullstack developer dedicated to building immersive and functional experiences. From developing responsive and attractive frontends to developing robust and secure backends, I'm committed to delivering comprehensive, high-quality solutions.
+I'm a full stack web developer dedicated to building immersive and functional experiences. I'm committed to creating stunning and responsive frontends, as well as developing robust and secure backends. My mission is to deliver high-quality solutions.
 
-I always seek to innovate and learn new things, because everything is constantly evolving and we have to keep up with the pace, so I firmly believe that knowledge takes up no space.
+I'm always seeking to innovate and learn new things because everything is constantly evolving, and we must keep up with the pace. Likewise, I firmly believe that knowledge takes up no space.
 
 In my free time, I enjoy building with Legos, traveling to explore new cultures, challenging myself in escape rooms, and appreciating nature. I believe in the importance of balancing work and leisure for a fulfilling and productive life.
 
@@ -26,12 +28,10 @@ In my free time, I enjoy building with Legos, traveling to explore new cultures,
 </div>
 
 
-
 ## TECH KNOWLEDGE 👨‍💻
 
 
 ### 💻 Programming and Markup Languagues
-
 <div>
 
 ![HTML](https://img.shields.io/badge/html5-badge?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26)
@@ -47,7 +47,6 @@ In my free time, I enjoy building with Legos, traveling to explore new cultures,
 
 
 ### 📚 Frameworks and Libraries
-
 <div>
 
 ![VueJS](https://img.shields.io/badge/vue-bagde?style=for-the-badge&logo=vuedotjs&logoColor=black&color=%234FC08D)
@@ -61,7 +60,6 @@ In my free time, I enjoy building with Legos, traveling to explore new cultures,
 
 
 ### 🛢️ Databases and Cloud Hosting
-
 <div>
 
 ![SQL Server](https://img.shields.io/badge/sql%20server-badge?style=for-the-badge&logo=microsoftsqlserver&color=%23CC2927)
@@ -72,7 +70,6 @@ In my free time, I enjoy building with Legos, traveling to explore new cultures,
 
 
 ### 🛠️ Software and Tools
-
 <div>
 
 ![Git](https://img.shields.io/badge/git-bagde?style=for-the-badge&logo=git&logoColor=white&color=%23F05032)
@@ -89,9 +86,9 @@ In my free time, I enjoy building with Legos, traveling to explore new cultures,
 </div>
 
 
-<div>
 
 ### 🌱 Current Learning 
+<div>
 
 ![Angular](https://img.shields.io/badge/angular-badge?style=for-the-badge&logo=angular&logoColor=white&color=%23DD1100)
 ![Typescript](https://img.shields.io/badge/typescript-badge?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6)
@@ -101,20 +98,15 @@ In my free time, I enjoy building with Legos, traveling to explore new cultures,
 
 
 
+<!-- ## CERTIFICATIONS 🏅 -->
 
+<!-- ## MY STATS 📊
 
-
-
-
-
-
-
-
-<!-- # CERTIFICATIONS 🏅 -->
-
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PedroNito&theme=tokyonight)](https://git.io/streak-stats) -->
  
+
+
+
 ## QUOTE 💭
 
 <div align="center">
