@@ -1,8 +1,4 @@
-<!-- <div align="center">
 
-# Hi there 👋
-
-</div> -->
  
  ## ABOUT ME ✍️
 
@@ -22,11 +18,11 @@ In my free time, I enjoy building with Legos, traveling to explore new cultures,
 <div align="center">
 
 ### Connect with me on 
-
 <a href="https://www.linkedin.com/in/pedro-nito-b20126205/">
-<img alt="Static Badge" src="https://img.shields.io/badge/linkedin-badge?style=for-the-badge&logo=linkedin&logoColor=white&color=%230A66C2">
-<a/>
 
+![Static Badge](https://img.shields.io/badge/linkedin-badge?style=for-the-badge&logo=linkedin&logoColor=white&color=%230A66C2)
+
+<a/>
 </div>
 
 
@@ -90,16 +86,17 @@ In my free time, I enjoy building with Legos, traveling to explore new cultures,
 ![Postman](https://img.shields.io/badge/postman-badge?style=for-the-badge&logo=postman&logoColor=white&color=%23FF6C37)
 ![Static Badge](https://img.shields.io/badge/trello-badge?style=for-the-badge&logo=trello&logoColor=white&color=%230052CC)
 
-
 </div>
 
 
-<div style="display:flex; justify-content:left; align-items:center; width:100%; margin-top:5%; margin-bottom:5%;">
-<h3 style="margin-right:2%; margin-bottom:5%">🌱 Current Learning</h3>
-    
+<div>
+
+### 🌱 Current Learning 
+
 ![Angular](https://img.shields.io/badge/angular-badge?style=for-the-badge&logo=angular&logoColor=white&color=%23DD1100)
 ![Typescript](https://img.shields.io/badge/typescript-badge?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6)
 ![Jira Software](https://img.shields.io/badge/jira%20software-badge?style=for-the-badge&logo=jirasoftware&logoColor=white&color=%230052CC)
+
 </div>
 
 
