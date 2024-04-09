@@ -1,7 +1,7 @@
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=44&pause=1000&color=5092FF&center=true&vCenter=true&random=false&width=500&height=150&lines=Welcome+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=44&pause=1000&color=5092FF&center=true&vCenter=true&random=false&width=500&height=150&lines=Welcome+%F0%9F%91%8B" alt="Welcome" />
 
-![Views](https://komarev.com/ghpvc/?username=PedroNito&style=for-the-badge&color=5092FF&label=Views)
+<img src="https://komarev.com/ghpvc/?username=PedroNito&style=for-the-badge&color=5092FF&label=Visitors" alt="Visitors" />
 </div>
 
 
