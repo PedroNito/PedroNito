@@ -6,27 +6,21 @@
     <img src="https://komarev.com/ghpvc/?username=PedroNito&style=for-the-badge&color=5092FF&label=Visitors" alt="Visitors" />
 </div>
 
-
-
-
+<br>
+<br>
 
  ## ABOUT ME ✍️
-
 <br>
 <div>
 
-Hi there, welcome! 
-
-I'm Pedro Nito, a technology enthusiast passionate about creating innovative solutions and solving problems.
+Hi there, I'm Pedro Nito, a technology enthusiast passionate about creating innovative solutions and solving problems.
 
 I'm a full stack developer dedicated to building immersive and functional experiences. I'm committed to creating stunning and responsive frontends, as well as developing robust and secure backends. My mission is to deliver high-quality solutions.
 
 I'm always seeking to innovate and learn new things because everything is constantly evolving, and we must keep up with the pace. Likewise, I firmly believe that knowledge takes up no space.
 
-In my free time, I enjoy building with Legos, traveling to explore new cultures, challenging myself in escape rooms, and appreciating nature. I believe in the importance of balancing work and leisure for a fulfilling and productive life.
-
 </div>
-
+<br>
 
 <div align="center">
 <!-- ### Connect with me on  -->
@@ -40,3 +34,44 @@ In my free time, I enjoy building with Legos, traveling to explore new cultures,
     <img alt="Static Badge" src="https://img.shields.io/badge/gmail-bagde?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF&color=%23EA4335">
 <a/> -->
 </div>
+
+<br>
+
+## TECH KNOWLEDGE 👨‍💻
+
+### 💻 Programming and Markup Languagues 
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,cpp,cs,md"/>
+
+<br>
+
+### 📚 Frameworks and Libraries
+<img src="https://skillicons.dev/icons?i=vue,pinia,npm,laravel,dotnet,bootstrap,tailwind,jquery"/>
+
+<br>
+
+### 🛢️ Databases and Cloud Hosting
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+
+<br>
+
+### 🛠️ Software and Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,phpstorm,windows,linux,figma,postman,"/>
+
+<br>
+
+### 🌱 Current Learning 
+<img src="https://skillicons.dev/icons?i=angular,ts"/>
+
+<br>
+
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
