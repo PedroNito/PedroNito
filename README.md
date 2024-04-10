@@ -41,19 +41,15 @@ I'm always seeking to innovate and learn new things because everything is consta
 
 ### 💻 Programming and Markup Languagues 
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,cpp,cs,md"/>
-<br>
 
 ### 📚 Frameworks and Libraries
 <img src="https://skillicons.dev/icons?i=vue,pinia,npm,laravel,dotnet,bootstrap,tailwind,jquery"/>
-<br>
 
 ### 🛢️ Databases and Cloud Hosting
 <img src="https://skillicons.dev/icons?i=mysql,postgres"/>
-<br>
 
 ### 🛠️ Software and Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,phpstorm,windows,linux,figma,postman"/>
-<br>
 
 ### 🌱 Current Learning 
 <img src="https://skillicons.dev/icons?i=angular,ts"/>
@@ -76,7 +72,8 @@ I'm always seeking to innovate and learn new things because everything is consta
 
 <br/>
 
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=PedroNito&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Readme Stats" /><img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNito&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img width=325 src="https://github-readme-stats.vercel.app/api?username=PedroNito&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Readme Stats" />
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNito&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 
 <br>
