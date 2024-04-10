@@ -41,37 +41,55 @@ I'm always seeking to innovate and learn new things because everything is consta
 
 ### 💻 Programming and Markup Languagues 
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,cpp,cs,md"/>
-
 <br>
 
 ### 📚 Frameworks and Libraries
 <img src="https://skillicons.dev/icons?i=vue,pinia,npm,laravel,dotnet,bootstrap,tailwind,jquery"/>
-
 <br>
 
 ### 🛢️ Databases and Cloud Hosting
 <img src="https://skillicons.dev/icons?i=mysql,postgres"/>
-
 <br>
 
 ### 🛠️ Software and Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,phpstorm,windows,linux,figma,postman,"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,phpstorm,windows,linux,figma,postman"/>
 <br>
 
 ### 🌱 Current Learning 
 <img src="https://skillicons.dev/icons?i=angular,ts"/>
+<br>
+
+<br>
+
+## CERTIFICATIONS 🏅
+<a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-732b1f69-ef8b-48a1-88aa-482c438669ab.pdf">Udemy - Clean Code</a>
+
+<br>
+
+## MY STATS 📊
+
+<br>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=PedroNito&theme=react" alt="GitHub Stats" />
+</div>
+
+<br/>
+
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=PedroNito&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Readme Stats" /><img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNito&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
 
 <br>
 
 
+## QUOTE 💭
 
+<br>
+<div align="center">
 
+*"Clean code always looks like it was written by someone who cares."*
+<br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+*Robert C. Martin*
+
+</div>
