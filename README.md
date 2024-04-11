@@ -68,11 +68,14 @@ I'm always seeking to innovate and learn new things because everything is consta
 <br>
 
 <div align="center">
-    <img width=450 src="https://streak-stats.demolab.com?user=PedroNito&theme=react&border_radius=10" alt="GitHub Stats" />
-    <img width=425 src="https://github-readme-stats.vercel.app/api?username=PedroNito&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Readme Stats" />
+    <img width=450 src="https://streak-stats.demolab.com?user=PedroNito&theme=react" alt="GitHub Stats" />
 </div>
 
 <br/>
+
+<div align="center">
+    <img width=450 src="https://github-readme-stats.vercel.app/api?username=PedroNito&show_icons=true&theme=react&rank_icon=github" alt="Readme Stats" />
+</div>
 
 <br>
 
