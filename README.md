@@ -26,13 +26,15 @@ I'm always seeking to innovate and learn new things because everything is consta
 <!-- ### Connect with me on  -->
 
 <h3> Connect with me on </h3>
-<a href="https://www.linkedin.com/in/pedro-nito-b20126205/">
-    <img alt="Linkdin" src="https://img.shields.io/badge/linkedin-badge?style=for-the-badge&logo=linkedin&color=%230A66C2">
-<a/>
-
-<!-- <a href="mailto:pedro.nito.23@gmail.com">
-    <img alt="Static Badge" src="https://img.shields.io/badge/gmail-bagde?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF&color=%23EA4335">
-<a/> -->
+    <a href="https://www.linkedin.com/in/pedro-nito-b20126205/">
+        <img alt="Linkdin" src="https://img.shields.io/badge/linkedin-badge?style=for-the-badge&logo=linkedin&color=%230A66C2">
+    <a/>
+    <a href="mailto:pedro.nito.23@gmail.com">
+        <img alt="Gmail" src="https://img.shields.io/badge/gmail-bagde?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF&color=%23EA4335">
+    <a/>
+    <a href="https://discordapp.com/users/593920040454324224">
+        <img alt="Discord" src="https://img.shields.io/badge/discord-badge?style=for-the-badge&logo=discord&logoColor=white&color=%235865F2">
+    <a/>
 </div>
 
 <br>
@@ -73,7 +75,7 @@ I'm always seeking to innovate and learn new things because everything is consta
 
 <div align="center">
     <img width=350 src="https://github-readme-stats.vercel.app/api?username=PedroNito&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Readme Stats" />
-    <!-- <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNito&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
+    <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNito&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br>
