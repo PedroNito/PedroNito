@@ -55,7 +55,7 @@ I'm always seeking to innovate and learn new things because everything is consta
 ### 📚 Frameworks and Libraries
 <!-- <img src="https://skillicons.dev/icons?i=vue,pinia,npm,laravel,dotnet,bootstrap,tailwind,jquery"/> -->
 
-<a href="https://vuejs.org/"><img alt="VueJs" src="https://skillicons.dev/icons?i=vue"/></a>
+<a href="https://vuejs.org/" target="_blank"><img alt="VueJs" src="https://skillicons.dev/icons?i=vue"/></a>
 <a href="https://pinia.vuejs.org/"><img alt="Pinia" src="https://skillicons.dev/icons?i=pinia"/></a>
 <a href="https://www.npmjs.com/"><img alt="NPM" src="https://skillicons.dev/icons?i=npm"/></a>
 <a href="https://laravel.com/"><img alt="Laravel" src="https://skillicons.dev/icons?i=laravel"/></a>
