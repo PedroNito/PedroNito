@@ -28,12 +28,12 @@ I'm always seeking to innovate and learn new things because everything is consta
     <a href="https://www.linkedin.com/in/pedro-nito-b20126205/">
         <img alt="Linkdin" src="https://img.shields.io/badge/linkedin-badge?style=for-the-badge&logo=linkedin&color=%230A66C2">
     <a/>
-    <!-- <a href="mailto:pedro.nito.23@gmail.com">
+    <a href="mailto:pedro.nito.23@gmail.com">
         <img alt="Gmail" src="https://img.shields.io/badge/gmail-bagde?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF&color=%23EA4335">
     <a/>
     <a href="https://discordapp.com/users/593920040454324224">
         <img alt="Discord" src="https://img.shields.io/badge/discord-badge?style=for-the-badge&logo=discord&logoColor=white&color=%235865F2">
-    <a/> -->
+    <a/>
 </div>
 
 <br>
@@ -41,7 +41,6 @@ I'm always seeking to innovate and learn new things because everything is consta
 ## TECH KNOWLEDGE 👨‍💻
 
 ### 💻 Programming and Markup Languagues 
-<!-- <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,cpp,cs,md"/> -->
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML" src="https://skillicons.dev/icons?i=html"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS" src="https://skillicons.dev/icons?i=css"/></a>
@@ -53,7 +52,6 @@ I'm always seeking to innovate and learn new things because everything is consta
 <a href="https://www.markdownguide.org/"><img alt="MD" src="https://skillicons.dev/icons?i=md"/></a>
 
 ### 📚 Frameworks and Libraries
-<!-- <img src="https://skillicons.dev/icons?i=vue,pinia,npm,laravel,dotnet,bootstrap,tailwind,jquery"/> -->
 
 <a href="https://vuejs.org/"><img alt="VueJs" src="https://skillicons.dev/icons?i=vue"/></a>
 <a href="https://pinia.vuejs.org/"><img alt="Pinia" src="https://skillicons.dev/icons?i=pinia"/></a>
@@ -65,13 +63,11 @@ I'm always seeking to innovate and learn new things because everything is consta
 <a href="https://jquery.com/"><img alt="jQuery" src="https://skillicons.dev/icons?i=jquery"/></a>
 
 ### 🛢️ Databases and Cloud Hosting
-<!-- <img src="https://skillicons.dev/icons?i=mysql,postgres"/> -->
 
 <a href="https://www.mysql.com/"><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql"/></a>
 <a href="https://www.postgresql.org/"><img alt="Postgres" src="https://skillicons.dev/icons?i=postgres"/></a>
 
 ### 🛠️ Software and Tools
-<!-- <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,phpstorm,windows,linux,figma,postman"/> -->
 
 <a href="https://git-scm.com/"><img alt="Git" src="https://skillicons.dev/icons?i=git"/></a>
 <a href="https://github.com/"><img alt="GitHub" src="https://skillicons.dev/icons?i=github"/></a>
@@ -80,11 +76,11 @@ I'm always seeking to innovate and learn new things because everything is consta
 <a href="https://www.jetbrains.com/phpstorm/"><img alt="phpStorm" src="https://skillicons.dev/icons?i=phpstorm"/></a>
 <a href="https://www.microsoft.com/en-us/windows?r=1"><img alt="Windows" src="https://skillicons.dev/icons?i=windows"/></a>
 <a href="https://www.linux.org/"><img alt="Linux" src="https://skillicons.dev/icons?i=linux"/></a>
+<a href="https://www.gnu.org/software/bash/manual/bash.html"><img alt="Bash" src="https://skillicons.dev/icons?i=bash"/></a>
 <a href="https://www.figma.com/"><img alt="Figma" src="https://skillicons.dev/icons?i=figma"/></a>
 <a href="https://www.postman.com/"><img alt="Postman" src="https://skillicons.dev/icons?i=postman"/></a>
 
 ### 🌱 Current Learning 
-<!-- <img src="https://skillicons.dev/icons?i=angular,ts"/> -->
 
 <a href="https://angular.io/"><img alt="Angular" src="https://skillicons.dev/icons?i=angular"/></a>
 <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://skillicons.dev/icons?i=ts"/></a>
