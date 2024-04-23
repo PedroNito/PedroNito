@@ -24,17 +24,13 @@ I'm always seeking to innovate and learn new things because everything is consta
 
 <div align="center">
 
+
 <h3> Connect with me on </h3>
-    <a href="https://www.linkedin.com/in/pedro-nito-b20126205/">
-        <img alt="Linkdin" src="https://img.shields.io/badge/linkedin-badge?style=for-the-badge&logo=linkedin&color=%230A66C2">
-    <a/>
-    <a href="mailto:pedro.nito.23@gmail.com">
-        <img alt="Gmail" src="https://img.shields.io/badge/gmail-bagde?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF&color=%23EA4335">
-    <a/>
-    <a href="https://discordapp.com/users/593920040454324224">
-        <img alt="Discord" src="https://img.shields.io/badge/discord-badge?style=for-the-badge&logo=discord&logoColor=white&color=%235865F2">
-    <a/>
+    <a href="https://www.linkedin.com/in/pedro-nito-b20126205/"><img alt="Linkdin" src="https://skillicons.dev/icons?i=linkedin"/><a/>
+    <a href="mailto:pedro.nito.23@gmail.com"><img alt="Gmail" src="https://skillicons.dev/icons?i=gmail"/><a/>
+    <a href="https://discordapp.com/users/593920040454324224"><img alt="Discord" src="https://skillicons.dev/icons?i=discord"/><a/>
 </div>
+
 
 <br>
 
