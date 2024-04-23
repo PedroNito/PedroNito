@@ -78,13 +78,13 @@ I'm always seeking to innovate and learn new things because everything is consta
 <a href="https://www.linux.org/"><img alt="Linux" src="https://skillicons.dev/icons?i=linux"/></a>
 <a href="https://www.gnu.org/software/bash/manual/bash.html"><img alt="Bash" src="https://skillicons.dev/icons?i=bash"/></a>
 <a href="https://www.figma.com/"><img alt="Figma" src="https://skillicons.dev/icons?i=figma"/></a>
-<a href="https://codepen.io/"><img alt="CodePen" src="https://skillicons.dev/icons?i=codepen"/></a>
 <a href="https://www.postman.com/"><img alt="Postman" src="https://skillicons.dev/icons?i=postman"/></a>
 
 ### 🌱 Current Learning 
 
 <a href="https://angular.io/"><img alt="Angular" src="https://skillicons.dev/icons?i=angular"/></a>
 <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://skillicons.dev/icons?i=ts"/></a>
+<a href="https://sass-lang.com/"><img alt="Sass" src="https://skillicons.dev/icons?i=sass"/></a>
 <a href="https://firebase.google.com/?hl=pt"><img alt="Firebase" src="https://skillicons.dev/icons?i=firebase"/></a>
 
 <br>
