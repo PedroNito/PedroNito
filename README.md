@@ -78,10 +78,10 @@ I'm always seeking to innovate and learn new things because everything is consta
 
 ### 🌱 Current Learning 
 
+<a href="https://www.python.org/"><img alt="pyhton" src="https://skillicons.dev/icons?i=py"/></a>
 <a href="https://angular.io/"><img alt="Angular" src="https://skillicons.dev/icons?i=angular"/></a>
 <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://skillicons.dev/icons?i=ts"/></a>
 <a href="https://sass-lang.com/"><img alt="Sass" src="https://skillicons.dev/icons?i=sass"/></a>
-<a href="https://firebase.google.com/?hl=pt"><img alt="Firebase" src="https://skillicons.dev/icons?i=firebase"/></a>
 
 <br>
 
