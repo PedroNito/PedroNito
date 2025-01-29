@@ -86,6 +86,7 @@ I'm always seeking to innovate and learn new things because everything is consta
 
 ## CERTIFICATIONS 🏅
 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-732b1f69-ef8b-48a1-88aa-482c438669ab.pdf">Udemy - Clean Code</a>
+<br>
 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-2b9e4924-df21-4f99-b13f-b6c2d6f25f4e.pdf">Udemy - SQL and PostgreSQL</a>
 <br>
 
