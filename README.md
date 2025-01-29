@@ -78,15 +78,20 @@ I'm always seeking to innovate and learn new things because everything is consta
 
 ### 🌱 Current Learning 
 
+<a href="https://angular.io/"><img alt="Docker" src="https://skillicons.dev/icons?i=docker"/></a>
+<a href="https://angular.io/"><img alt="Kubernetes" src="https://skillicons.dev/icons?i=kubernetes"/></a>
+
+<!-- 
 <a href="https://angular.io/"><img alt="Angular" src="https://skillicons.dev/icons?i=angular"/></a>
 <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://skillicons.dev/icons?i=ts"/></a>
 <a href="https://sass-lang.com/"><img alt="Sass" src="https://skillicons.dev/icons?i=sass"/></a>
-
+-->
 <br>
 
 ## CERTIFICATIONS 🏅
 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-732b1f69-ef8b-48a1-88aa-482c438669ab.pdf">Udemy - Clean Code</a>
 <br>
+
 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-2b9e4924-df21-4f99-b13f-b6c2d6f25f4e.pdf">Udemy - SQL and PostgreSQL</a>
 <br>
 
