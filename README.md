@@ -78,8 +78,8 @@ I'm always seeking to innovate and learn new things because everything is consta
 
 ### 🌱 Current Learning 
 
-<a href="https://angular.io/"><img alt="Docker" src="https://skillicons.dev/icons?i=docker"/></a>
-<a href="https://angular.io/"><img alt="Kubernetes" src="https://skillicons.dev/icons?i=kubernetes"/></a>
+<a href="https://www.docker.com/"><img alt="Docker" src="https://skillicons.dev/icons?i=docker"/></a>
+<a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://skillicons.dev/icons?i=kubernetes"/></a>
 
 <!-- 
 <a href="https://angular.io/"><img alt="Angular" src="https://skillicons.dev/icons?i=angular"/></a>
