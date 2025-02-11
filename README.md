@@ -43,6 +43,7 @@ I'm always seeking to innovate and learn new things because everything is consta
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JS" src="https://skillicons.dev/icons?i=js"/></a>
 <a href="https://nodejs.org/"><img alt="NodeJS" src="https://skillicons.dev/icons?i=nodejs"/></a>
 <a href="https://www.php.net/"><img alt="PHP" src="https://skillicons.dev/icons?i=php"/></a>
+<a href="https://www.cprogramming.com/#google_vignette"><img alt="C" src="https://skillicons.dev/icons?i=c"/></a>
 <a href="https://cplusplus.com/"><img alt="C++" src="https://skillicons.dev/icons?i=cpp"/></a>
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img alt="C#" src="https://skillicons.dev/icons?i=cs"/></a>
 <a href="https://www.markdownguide.org/"><img alt="MD" src="https://skillicons.dev/icons?i=md"/></a>
@@ -68,10 +69,11 @@ I'm always seeking to innovate and learn new things because everything is consta
 <a href="https://git-scm.com/"><img alt="Git" src="https://skillicons.dev/icons?i=git"/></a>
 <a href="https://github.com/"><img alt="GitHub" src="https://skillicons.dev/icons?i=github"/></a>
 <a href="https://code.visualstudio.com/"><img alt="VScode" src="https://skillicons.dev/icons?i=vscode"/></a>
-<a href="https://www.jetbrains.com/webstorm/"><img alt="webStorm" src="https://skillicons.dev/icons?i=webstorm"/></a>
-<a href="https://www.jetbrains.com/phpstorm/"><img alt="phpStorm" src="https://skillicons.dev/icons?i=phpstorm"/></a>
 <a href="https://www.microsoft.com/en-us/windows?r=1"><img alt="Windows" src="https://skillicons.dev/icons?i=windows"/></a>
 <a href="https://www.linux.org/"><img alt="Linux" src="https://skillicons.dev/icons?i=linux"/></a>
+<a href="https://www.debian.org/"><img alt="Debian" src="https://skillicons.dev/icons?i=debian"/></a>
+<a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://skillicons.dev/icons?i=ubuntu"/></a>
+<a href="https://codepen.io/"><img alt="CodePen" src="https://skillicons.dev/icons?i=codepen"/></a>
 <a href="https://www.gnu.org/software/bash/manual/bash.html"><img alt="Bash" src="https://skillicons.dev/icons?i=bash"/></a>
 <a href="https://www.figma.com/"><img alt="Figma" src="https://skillicons.dev/icons?i=figma"/></a>
 <a href="https://www.postman.com/"><img alt="Postman" src="https://skillicons.dev/icons?i=postman"/></a>
@@ -84,6 +86,7 @@ I'm always seeking to innovate and learn new things because everything is consta
 <!-- 
 <a href="https://angular.io/"><img alt="Angular" src="https://skillicons.dev/icons?i=angular"/></a>
 <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://skillicons.dev/icons?i=ts"/></a>
+<a href="https://firebase.google.com/"><img alt="Firebase" src="https://skillicons.dev/icons?i=firebase"/></a>
 <a href="https://sass-lang.com/"><img alt="Sass" src="https://skillicons.dev/icons?i=sass"/></a>
 -->
 <br>
