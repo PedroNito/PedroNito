@@ -36,58 +36,72 @@ I'm always seeking to innovate and learn new things because everything is consta
 
 ## TECH KNOWLEDGE 👨‍💻
 
-### 💻 Programming and Markup Languagues 
+### 💻 Programming and Markup Languages 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML" src="https://skillicons.dev/icons?i=html"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS" src="https://skillicons.dev/icons?i=css"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JS" src="https://skillicons.dev/icons?i=js"/></a>
-<a href="https://nodejs.org/"><img alt="NodeJS" src="https://skillicons.dev/icons?i=nodejs"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://skillicons.dev/icons?i=js"/></a>
+<a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://skillicons.dev/icons?i=ts"/></a>
 <a href="https://www.php.net/"><img alt="PHP" src="https://skillicons.dev/icons?i=php"/></a>
 <a href="https://www.cprogramming.com/#google_vignette"><img alt="C" src="https://skillicons.dev/icons?i=c"/></a>
 <a href="https://cplusplus.com/"><img alt="C++" src="https://skillicons.dev/icons?i=cpp"/></a>
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img alt="C#" src="https://skillicons.dev/icons?i=cs"/></a>
 <a href="https://www.markdownguide.org/"><img alt="MD" src="https://skillicons.dev/icons?i=md"/></a>
 
-### 📚 Frameworks and Libraries
+### 🎨 Frontend Frameworks and Libraries
 
 <a href="https://vuejs.org/"><img alt="VueJs" src="https://skillicons.dev/icons?i=vue"/></a>
 <a href="https://pinia.vuejs.org/"><img alt="Pinia" src="https://skillicons.dev/icons?i=pinia"/></a>
-<a href="https://www.npmjs.com/"><img alt="NPM" src="https://skillicons.dev/icons?i=npm"/></a>
-<a href="https://laravel.com/"><img alt="Laravel" src="https://skillicons.dev/icons?i=laravel"/></a>
-<a href="https://dotnet.microsoft.com/en-us/"><img alt=".NET" src="https://skillicons.dev/icons?i=dotnet"/></a>
 <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"/></a>
 <a href="https://tailwindcss.com/"><img alt="Tailwind" src="https://skillicons.dev/icons?i=tailwind"/></a>
 <a href="https://jquery.com/"><img alt="jQuery" src="https://skillicons.dev/icons?i=jquery"/></a>
+
+### 🧠 Backend & Frameworks and Libraries
+
+<a href="https://laravel.com/"><img alt="Laravel" src="https://skillicons.dev/icons?i=laravel"/></a>
+<a href="https://dotnet.microsoft.com/en-us/"><img alt=".NET" src="https://skillicons.dev/icons?i=dotnet"/></a>
+
+### 🧩 Concepts & Practices
+
+<a href="https://regex101.com/"><img alt="Regex" src="https://skillicons.dev/icons?i=regex"/></a>
+
+### ⚙️ Build Tools and Package Managers
+
+<a href="https://www.npmjs.com/"><img alt="NPM" src="https://skillicons.dev/icons?i=npm"/></a>
+<a href="https://vite.dev/"><img alt="Vite" src="https://skillicons.dev/icons?i=vite"/></a>
 
 ### 🛢️ Databases and Cloud Hosting
 
 <a href="https://www.mysql.com/"><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql"/></a>
 <a href="https://www.postgresql.org/"><img alt="Postgres" src="https://skillicons.dev/icons?i=postgres"/></a>
+<a href="https://sqlite.org/"><img alt="SqLite" src="https://skillicons.dev/icons?i=sqlite"/></a>
 
-### 🛠️ Software and Tools
+### 🛠️ Tools & Environment
 
 <a href="https://git-scm.com/"><img alt="Git" src="https://skillicons.dev/icons?i=git"/></a>
 <a href="https://github.com/"><img alt="GitHub" src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://about.gitlab.com/why-gitlab/"><img alt="GitLab" src="https://skillicons.dev/icons?i=gitlab"/></a>
 <a href="https://code.visualstudio.com/"><img alt="VScode" src="https://skillicons.dev/icons?i=vscode"/></a>
-<a href="https://www.microsoft.com/en-us/windows?r=1"><img alt="Windows" src="https://skillicons.dev/icons?i=windows"/></a>
-<a href="https://www.linux.org/"><img alt="Linux" src="https://skillicons.dev/icons?i=linux"/></a>
-<a href="https://www.debian.org/"><img alt="Debian" src="https://skillicons.dev/icons?i=debian"/></a>
-<a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://skillicons.dev/icons?i=ubuntu"/></a>
 <a href="https://codepen.io/"><img alt="CodePen" src="https://skillicons.dev/icons?i=codepen"/></a>
 <a href="https://www.gnu.org/software/bash/manual/bash.html"><img alt="Bash" src="https://skillicons.dev/icons?i=bash"/></a>
 <a href="https://www.figma.com/"><img alt="Figma" src="https://skillicons.dev/icons?i=figma"/></a>
+<a href="https://grafana.com/"><img alt="Grafana" src="https://skillicons.dev/icons?i=grafana"/></a>
 <a href="https://www.postman.com/"><img alt="Postman" src="https://skillicons.dev/icons?i=postman"/></a>
+
+### 💻 Operating Systems
+<a href="https://www.microsoft.com/en-us/windows?r=1"><img alt="Windows" src="https://skillicons.dev/icons?i=windows"/></a>
+<a href="https://linuxmint.com/"><img alt="Mint" src="https://skillicons.dev/icons?i=mint"/></a>
+<a href="https://www.debian.org/"><img alt="Debian" src="https://skillicons.dev/icons?i=debian"/></a>
+<a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://skillicons.dev/icons?i=ubuntu"/></a>
 
 ### 🌱 Current Learning 
 
-<a href="https://www.docker.com/"><img alt="Docker" src="https://skillicons.dev/icons?i=docker"/></a>
-<a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://skillicons.dev/icons?i=kubernetes"/></a>
+<a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://skillicons.dev/icons?i=ts"/></a>
 
 <!-- 
-<a href="https://angular.io/"><img alt="Angular" src="https://skillicons.dev/icons?i=angular"/></a>
-<a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://skillicons.dev/icons?i=ts"/></a>
+<a href="https://www.docker.com/"><img alt="Docker" src="https://skillicons.dev/icons?i=docker"/></a>
+<a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://skillicons.dev/icons?i=kubernetes"/></a> 
 <a href="https://firebase.google.com/"><img alt="Firebase" src="https://skillicons.dev/icons?i=firebase"/></a>
-<a href="https://sass-lang.com/"><img alt="Sass" src="https://skillicons.dev/icons?i=sass"/></a>
 -->
 <br>
 
