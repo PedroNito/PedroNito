@@ -56,12 +56,12 @@ I'm always seeking to innovate and learn new things because everything is consta
 <a href="https://tailwindcss.com/"><img alt="Tailwind" src="https://skillicons.dev/icons?i=tailwind"/></a>
 <a href="https://jquery.com/"><img alt="jQuery" src="https://skillicons.dev/icons?i=jquery"/></a>
 
-### 🧠 Backend & Frameworks and Libraries
+### 🧠 Backend Frameworks and Libraries
 
 <a href="https://laravel.com/"><img alt="Laravel" src="https://skillicons.dev/icons?i=laravel"/></a>
 <a href="https://dotnet.microsoft.com/en-us/"><img alt=".NET" src="https://skillicons.dev/icons?i=dotnet"/></a>
 
-### 🧩 Concepts & Practices
+### 🧩 Concepts and Practices
 
 <a href="https://regex101.com/"><img alt="Regex" src="https://skillicons.dev/icons?i=regex"/></a>
 
@@ -76,7 +76,7 @@ I'm always seeking to innovate and learn new things because everything is consta
 <a href="https://www.postgresql.org/"><img alt="Postgres" src="https://skillicons.dev/icons?i=postgres"/></a>
 <a href="https://sqlite.org/"><img alt="SqLite" src="https://skillicons.dev/icons?i=sqlite"/></a>
 
-### 🛠️ Tools & Environment
+### 🛠️ Tools and Environment
 
 <a href="https://git-scm.com/"><img alt="Git" src="https://skillicons.dev/icons?i=git"/></a>
 <a href="https://github.com/"><img alt="GitHub" src="https://skillicons.dev/icons?i=github"/></a>
