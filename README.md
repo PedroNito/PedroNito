@@ -97,6 +97,8 @@ I'm always seeking to innovate and learn new things because everything is consta
 ### 🌱 Current Learning 
 
 <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://skillicons.dev/icons?i=ts"/></a>
+<a href="https://www.typescriptlang.org/"><img alt="Nextjs" src="https://skillicons.dev/icons?i=nextjs"/></a>
+<a href="https://www.typescriptlang.org/"><img alt="Vercel" src="https://skillicons.dev/icons?i=vercel"/></a>
 
 <!-- 
 <a href="https://www.docker.com/"><img alt="Docker" src="https://skillicons.dev/icons?i=docker"/></a>
