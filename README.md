@@ -67,14 +67,19 @@ I'm always seeking to innovate and learn new things because everything is consta
 
 ### ⚙️ Build Tools and Package Managers
 
+<a href="https://pnpm.io/"><img alt="PNPM" src="https://skillicons.dev/icons?i=pnpm"/></a>
 <a href="https://www.npmjs.com/"><img alt="NPM" src="https://skillicons.dev/icons?i=npm"/></a>
 <a href="https://vite.dev/"><img alt="Vite" src="https://skillicons.dev/icons?i=vite"/></a>
 
 ### 🛢️ Databases and Cloud Hosting
 
-<a href="https://www.mysql.com/"><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql"/></a>
 <a href="https://www.postgresql.org/"><img alt="Postgres" src="https://skillicons.dev/icons?i=postgres"/></a>
+<a href="https://www.mysql.com/"><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql"/></a>
 <a href="https://sqlite.org/"><img alt="SqLite" src="https://skillicons.dev/icons?i=sqlite"/></a>
+
+### 🗄️ ORM & Data Access
+
+<a href="https://www.prisma.io/"><img alt="Prisma" src="https://skillicons.dev/icons?i=prisma"/></a>
 
 ### 🛠️ Tools and Environment
 
@@ -96,7 +101,6 @@ I'm always seeking to innovate and learn new things because everything is consta
 
 ### 🌱 Current Learning 
 
-<a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://skillicons.dev/icons?i=ts"/></a>
 <a href="https://www.typescriptlang.org/"><img alt="Nextjs" src="https://skillicons.dev/icons?i=nextjs"/></a>
 <a href="https://www.typescriptlang.org/"><img alt="Vercel" src="https://skillicons.dev/icons?i=vercel"/></a>
 
